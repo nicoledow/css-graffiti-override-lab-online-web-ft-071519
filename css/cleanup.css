@@ -21,4 +21,6 @@
   display: none;
 }
 
-#wall div.parent div
+#wall div.parent div #tag-6{
+  display: none;
+}
